@@ -109,9 +109,7 @@ namespace sortedSet
     internal class Person
     {
         public string name { get; set; }
-
         public string location { get; set; }
-
         public int age { get; set; }
     }
 }
